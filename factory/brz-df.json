@@ -1,0 +1,9 @@
+{
+	"name": "brz-df",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4cbd369f-afb4-450b-8c31-3db93fdaf752",
+		"tenantId": "67febd78-d480-4ccf-b22a-9e5f7622bdc0"
+	}
+}
