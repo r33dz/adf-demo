@@ -17,6 +17,10 @@
 				},
 				"secretName": "sftpdemo"
 			}
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1",
+			"type": "IntegrationRuntimeReference"
 		}
 	}
 }
