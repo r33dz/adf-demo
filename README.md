@@ -2,6 +2,10 @@
 
 [sample-dataset](https://www.kaggle.com/datasets/inigolopezrioboo/a-tripadvisor-dataset-for-nlp-tasks?select=Paris_reviews.csv)
 
+https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_server_configuration#windows-configurations-in-sshd_config
+
+https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
+
 https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support
 
 https://stackoverflow.com/questions/59052635/unzip-gzip-files-in-azure-data-factory
