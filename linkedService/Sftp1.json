@@ -19,7 +19,7 @@
 			}
 		},
 		"connectVia": {
-			"referenceName": "integrationRuntime1",
+			"referenceName": "integrationRuntime0",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
