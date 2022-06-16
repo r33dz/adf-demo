@@ -2,16 +2,16 @@
 	"name": "Binary1",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "Sftp1",
+			"referenceName": "refactor storage",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
 		"type": "Binary",
 		"typeProperties": {
 			"location": {
-				"type": "SftpLocation",
+				"type": "AzureBlobStorageLocation",
 				"fileName": "Paris_reviews.csv.gz",
-				"folderPath": "/C/datadev/original"
+				"folderPath": "C/datadev/original"
 			}
 		}
 	}
