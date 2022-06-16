@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "brz-df"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://refactor.vault.azure.net/"
+		},
+		"Sftp1_properties_typeProperties_host": {
+			"value": "sftp-demo.zerodevs.co"
+		},
+		"Sftp1_properties_typeProperties_userName": {
+			"value": "sum1"
+		},
+		"refactor storage_properties_typeProperties_connectionString_secretName": {
+			"value": "teststorage0"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
