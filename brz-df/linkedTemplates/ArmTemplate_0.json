@@ -120,7 +120,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "SftpLocation",
-						"fileName": "Paris_reviews.csv.gz",
+						"fileName": "Paris_reviews.gz",
 						"folderPath": "/C/datadev/original"
 					},
 					"compression": {
