@@ -1,0 +1,22 @@
+{
+	"name": "Binary2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "refactor storage",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "new",
+				"container": "zcontainer"
+			},
+			"compression": {
+				"type": "deflate",
+				"level": "Optimal"
+			}
+		}
+	}
+}
